@@ -26,8 +26,8 @@ Board data sheet: https://www.st.com/resource/en/user_manual/um2153-discovery-ki
 ![11-gpio-final-working-code.jpg](.artifacts/img/11-gpio-final-working-code.jpg)
 ### Working System
 ![12-gpio-light-not-activated.jpg](.artifacts/img/12-gpio-light-not-activated.jpg)
-LED Light not activated; blue button not pressed.
+<br>LED Light not activated; blue button not pressed.
 
 ![14-gpio-light-activated-pressed.jpg](.artifacts/img/14-gpio-light-activated-pressed.jpg)
-Blue button pressed and LED Light switched on
+<br>Blue button pressed and LED Light switched on
 
