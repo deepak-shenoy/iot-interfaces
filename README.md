@@ -61,3 +61,12 @@ I2C, SPI, etc.) ensure safe hardware access
 to prevent concurrent access to driver processes and handle objects.
 
 * Timeouts for Blocking Processes: Timeouts can be simple counters or time-based.
+
+## (ADC) Analog to Digital Converter 
+
+### Overview
+The analog-to-digital converters allows the
+microcontroller to accept an analog value like a sensor output and
+convert the signal into the digital domain.
+
+
