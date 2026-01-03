@@ -69,4 +69,28 @@ The analog-to-digital converters allows the
 microcontroller to accept an analog value like a sensor output and
 convert the signal into the digital domain.
 
+## UART
+
+### Overview
+The universal synchronous/asynchronous receiver transmitter (USART/UART) is a full-duplex
+data exchange with external equipment requiring an industry
+standard NRZ asynchronous serial data format.
+
+USART can operate with a very wide range of baud rates using a programmable
+baud rate generator.
+It supports synchronous one-way communication and half-duplex single-wire
+communication, as well as multiprocessor communications. It also supports the LIN
+(Local Interconnect Network), Smartcard protocol and IrDA (Infrared Data
+Association) SIR ENDEC specifications and Modem operations (CTS/RTS).
+High speed data communication is possible by using the DMA (direct memory
+access) for multibuffer configuration. Also, the UART can be used with interrupt.
+
+UART has the following features:
+
+* Simple UART communication in polling mode
+* UART with Interrupt
+* UART with DMA
+
+
+
 
