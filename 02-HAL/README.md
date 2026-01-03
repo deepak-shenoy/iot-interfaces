@@ -25,10 +25,13 @@
 ![09-solution-code.jpg](.artifacts/img/09-solution-code.jpg)
 
 ### Board
-[10-board.pdf](.artifacts/img/10-board.pdf)
+![10-board.jpg](.artifacts/img/10-board.jpg)
+The light flashes every 250 when the blue button is not pressed;
+If the button is pressed then the light will flash every 1000ms
 
 ### Testing and Validation (Screen Output)
 ![11-screen-output.jpg](.artifacts/img/11-screen-output.jpg)
+The following screen command was used: `screen /dev/tty.usbmodem21403 115200`
 
 ### Button Configuration
 ![12-gpio-button-configuration.jpg](.artifacts/img/12-gpio-button-configuration.jpg)
